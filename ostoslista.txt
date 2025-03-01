@@ -6,3 +6,4 @@ jogurtti
 kana
 riisi
 perunamuusi
+tonnikala
