@@ -5,4 +5,4 @@ appelsiini
 jogurtti
 kana
 riisi
-peruna
+perunamuusi
