@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 Lisätään tähän pätkä tekstiä, tämä loppuosa on lisätty jälkikäteen.
+=======
+Lisätään tähän pätkä tekstiä
+Tämä lause on lisätty paikallisesti.
+>>>>>>> Stashed changes
